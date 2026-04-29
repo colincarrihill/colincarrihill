@@ -1,6 +1,6 @@
 # Colin Carrihill
 
-I've spent 12+ years building products at Amazon and growth-stage companies — across consumer brands, services, payments, and enterprise. Now I'm the founding head of product and ops at [MOST](https://dothemost.ai).
+I've spent 14+ years building products at Amazon and growth-stage companies — across consumer brands, services, payments, and enterprise. Now I'm the founding head of product and ops at [MOST](https://dothemost.ai).
 
 ## What I'm working on
 
